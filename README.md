@@ -1,7 +1,7 @@
 flask and gunicorn tutorial
 ===========================
 
-The default development server for flask is not suited for productio enviornments. Gunicorn is a simple WSGI client written in pure python. This repository serves as a simple example of connecting the two.
+The default development server for flask is not suited for production environments. Gunicorn is a simple WSGI client written in pure python. This repository serves as a simple example of connecting the two.
 
 [This answer](https://serverfault.com/a/331263) on StackOverflow explains why something like Gunicorn is needed.
 
