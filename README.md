@@ -17,4 +17,4 @@ Running flask server
 Running gunicorn server
 =======================
 
-gunicorn -w 4 --reload -b localhost:5000 "app.main:create_app(testing=True)" 
+`gunicorn -w 4 --reload -b localhost:5000 "app.main:create_app(testing=True)"`
