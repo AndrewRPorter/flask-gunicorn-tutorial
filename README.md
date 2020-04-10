@@ -11,6 +11,7 @@ Running flask server
 ====================
 
 `export FLASK_APP="app.main:create_app"`
+
 `flask run`
 
 Running gunicorn server
